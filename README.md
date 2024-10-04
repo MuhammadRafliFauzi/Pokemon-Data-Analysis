@@ -1,2 +1,2 @@
 # Pokemon-Data-Analysis
-This repository is a repository that contains simple pokemon data analysis using the python programming language. In addition, in this repository there is also my portfolio regarding the creation of the project. 
+This project is a simple data analysis project using the pokemon dataset. In this project I analyzed to find out which pokemon has the highest value, which pokemon has the lowest value and how many of each type are in the pokemon dataset. 
